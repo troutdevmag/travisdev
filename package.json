@@ -1,0 +1,21 @@
+{
+  "name": "webpackdev",
+  "version": "1.0.0",
+  "description": "dev yeah",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server ./index.js"
+  },
+  "author": "Mag",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-logger": "^1.0.0",
+    "css-loader": "^0.23.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.4",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}

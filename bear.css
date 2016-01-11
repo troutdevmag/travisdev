@@ -1,0 +1,8 @@
+@import 'base.css';
+
+div {
+  color: #f7CC33;
+  padding-left: 40px;
+  padding-top: 40px;
+  border-bottom: 1px solid #ccc;
+}
